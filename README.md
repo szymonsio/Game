@@ -1,2 +1,4 @@
 # Game
-foch
+Projekt indie
+
+Gra RPG z jajcem.
