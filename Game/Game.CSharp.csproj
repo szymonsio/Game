@@ -58,12 +58,6 @@
     <Reference Include="UnityEngine.Networking">
       <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Networking">
-      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
@@ -82,6 +76,14 @@
     <None Include="Assets\Isometric Graphics\isometric-buildings\Spritesheet\buildingTiles_sheet.xml" />
     <None Include="Assets\Isometric Graphics\isometriccity\Spritesheet\cityDetails_sheet.xml" />
     <None Include="Assets\Isometric Graphics\isometriccity\Spritesheet\cityTiles_sheet.xml" />
+    <None Include="Assets\Isometric Graphics\isometriclandscape\Spritesheet\landscapeTiles_sheet.xml" />
+    <None Include="Assets\Isometric Graphics\isometricvehicles\Spritesheet\sheet_allCars.xml" />
+    <None Include="Assets\Isometric Graphics\isometricvehicles\Spritesheet\sheet_black.xml" />
+    <None Include="Assets\Isometric Graphics\isometricvehicles\Spritesheet\sheet_blue.xml" />
+    <None Include="Assets\Isometric Graphics\isometricvehicles\Spritesheet\sheet_green.xml" />
+    <None Include="Assets\Isometric Graphics\isometricvehicles\Spritesheet\sheet_red.xml" />
+    <None Include="Assets\Isometric Graphics\isometricvehicles\Spritesheet\sheet_silver.xml" />
+    <None Include="Assets\Isometric Graphics\isometricvehicles\Spritesheet\sheet_utility.xml" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
