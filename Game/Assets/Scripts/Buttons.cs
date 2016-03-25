@@ -27,5 +27,20 @@ public class Buttons : MonoBehaviour {
     {
         SceneManager.LoadScene(3);
     }
+
+    public void CharactersButton()
+    {
+        SceneManager.LoadScene(4);
+    }
+
+    public void EnemiesButton()
+    {
+        SceneManager.LoadScene(5);
+    }
+
+    public void ItemsButton()
+    {
+        SceneManager.LoadScene(6);
+    }
 }
    
